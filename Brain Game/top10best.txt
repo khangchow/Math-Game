@@ -1,0 +1,9 @@
+NewPlayer|30|410
+NewPlayer|22|111
+Toan oc cho|12|21
+Toan ga|12|34
+NewPlayer|10|18
+NewPlayer|9|17
+Toan oc cho|6|25
+Toan oc cho|3|9
+NewPLayer|1|91
